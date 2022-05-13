@@ -1,7 +1,7 @@
 **Hey😄, I'm Subhajit Bhattacharya**
 
 <img
-  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=work-experience&username=cristalfield&max-items=2&logos=true&style=--item-bg-color:white;--item-border-radius:10px"
+  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=work-experience&username=cristalfield&max-items=2&logos=true&style=--item-bg-color:LightBlue;--item-border-radius:10px"
 />
 - 🔭 I’m currently working on React JS
 - 🌱 I’m currently learning Node JS, MongoDB
