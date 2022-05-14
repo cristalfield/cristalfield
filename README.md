@@ -1,8 +1,5 @@
 **Hey😄, I'm Subhajit Bhattacharya**
 
-<img
-  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=work-experience&username=cristalfield&max-items=2&logos=true&style=--item-bg-color:White;--item-border-radius:10px"
-/>
 - 🔭 I’m currently working on React JS
 - 🌱 I’m currently learning Node JS, MongoDB
 - 🤔 I’m looking for help with improving Stats
